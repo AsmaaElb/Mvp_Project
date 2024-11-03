@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551512181966",
+    "project_id": "tp-mvp-9014c",
+    "storage_bucket": "tp-mvp-9014c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551512181966:android:0f6b9344e33db2aa17149f",
+        "android_client_info": {
+          "package_name": "com.asma.mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEbUNFW0y0dhh9INq371Qp9QVFZrkE4tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551512181966:android:916b9c2bc0d8fb2917149f",
+        "android_client_info": {
+          "package_name": "com.example.mvp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEbUNFW0y0dhh9INq371Qp9QVFZrkE4tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
